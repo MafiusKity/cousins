@@ -5,7 +5,7 @@ A C++ program to encouter the nth primer number
 To use this program, you must have to compile it:
 
 ```Bash
-g++ cousins.cpp -o progam_name
+g++ cousin.cpp -o progam_name
 ```
 
 To execute:
