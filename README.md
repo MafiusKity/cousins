@@ -7,8 +7,9 @@ To use this program, you must have to compile it:
 ```Bash
 g++ cousin.cpp -o progam_name
 ```
+You decide the program_name.
 
-To execute:
+#### To execute:
 
 ```Bash
 program_name n
